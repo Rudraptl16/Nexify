@@ -56,17 +56,3 @@ Nexify is a premium, state-of-the-art landing page designed for next-gen AI plat
    Simply open `index.html` in any modern web browser to view the landing page.
 
 ---
-
-## 📸 Preview
-
-*Note: Add your screenshots here to showcase the stunning UI!*
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Developed with ❤️ by [Rudra Patel](https://github.com/Rudraptl16)
