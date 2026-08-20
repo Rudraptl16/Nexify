@@ -4,6 +4,7 @@ Nexify is a premium, state-of-the-art landing page designed for next-gen AI plat
 
 ---
 
+
 ## ✨ Features
 
 ### 🎨 Design & UX
@@ -45,6 +46,7 @@ Nexify is a premium, state-of-the-art landing page designed for next-gen AI plat
 ```
 
 ---
+
 
 ## 🚀 Getting Started
 
